@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "prod": "testprod-d259a",
+    "qa": "testqa-8fabe"
+  },
+  "targets": {}
+}
